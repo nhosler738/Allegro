@@ -1,0 +1,19 @@
+Color Pallete Codes: 6096B4 blue, 93BFCF light blue, BDCDD6 gray/blue, EEE9DA brown blue
+
+
+Login Process: creds -> username, password
+
+signup process: attempts login -> database returns null -> prompts user for signup
+
+
+search process: search item -> 
+
+
+
+USER NOTES:
+- User can access site without loging in but will need to signin or make an account for an order. 
+
+
+
+
+

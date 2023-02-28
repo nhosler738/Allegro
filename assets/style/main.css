@@ -4,6 +4,60 @@
 
 /* General stylings for the webpage */
 
-ul.navbar-contents {
+
+
+
+
+/*header styling */
+
+header {
+    background-color: #6096B4;
+}
+
+
+#header-title-list {
     list-style-type: none;
 }
+
+
+/*header styling */
+
+
+
+
+
+
+/* footer styling */
+
+#footer-content {
+    background-color: #6096B4;
+}
+
+/* foote styling */
+
+
+
+/* nav bar styling*/
+
+#navbar-content{
+    background-color: #93BFCF;
+
+}
+
+.navbar-list li {
+    list-style-type: none;
+
+}
+
+.navbar-list li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+/* nav bar styling*/

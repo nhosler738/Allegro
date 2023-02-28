@@ -1,7 +1,6 @@
 <?php
 
     // connect to database server
-    // import file variables
     include 'includes/connectdb.php';
 
     $search_request = $_GET['query'];
@@ -11,6 +10,9 @@
     } else {
         echo $search_request;
     }
+    
+
+
     
 
 
